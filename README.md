@@ -6,4 +6,4 @@ The cart is driven by an engine which exerts a horizontal force  F . in addition
 An LQR controller needs to be designed for regulating the force exerted, so that the pendulum can be stabilized in the inverted position. 
 The controller should work even if the pendulum is off the vertical or the cart is moving initially.
 
-![Demo](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/Demo.mp41111)
+![Demo](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/Demo.mp4)
