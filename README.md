@@ -37,4 +37,6 @@ We expected the pendulum to stabilize with angle pi radians with -ve y axis and 
 ### Demo video
 
 
-https://user-images.githubusercontent.com/65642096/129032295-3e7ec6c8-92ba-493a-a750-f0c8bb36ff8b.mp4
+
+https://user-images.githubusercontent.com/65642096/129035471-aa09f39e-b41b-4a2a-9995-b657b48f2006.mp4
+
