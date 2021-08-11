@@ -3,16 +3,15 @@ The objective is to balance the inverted pendulum on moving cart by controlling 
 ## Problem
 ![Problem](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/problem.PNG)
 
-Consider a modified scenario where the pivot of the pendulum is attached to the top a cart that can move along the x-direction as shown in the figure. 
-The cart is driven by an engine which exerts a horizontal force  F . in addition, the cart also experiences a resistance  f  due to its motion.  
-An LQR controller needs to be designed for regulating the force exerted, so that the pendulum can be stabilized in the inverted position. The controller should work even if the pendulum is off the vertical or the cart is moving initially. (Though of pendulum with verticle is measure from +y axis, the actual angle used in this problem is measured with -ve y axis. Therefore, we should expect the pendulum to stabilize with angle pi radians with -ve y axis)
+The pendulum is attached to the top of a cart that can move along the x-direction as shown in the figure. The cart is driven by an engine which exerts a horizontal force F . In addition, the cart also experiences a resistance  f  due to its motion.  
+An LQR controller needs to be designed for regulating the force exerted, so that the pendulum can be stabilized in the inverted position. The controller should work even if the pendulum is off the vertical initially. (Though of angle with verticle is measured from +y axis, the actual angle used in this problem is measured with -ve y axis. Therefore, we should expect the pendulum to stabilize with angle pi radians with -ve y axis and 0 angular velocity)
 
 ## Tasks
-1. Studied the dynamics of problem and obtained governing differential equations and determined the rate of change of state  
+1. Studied the dynamics of problem, obtained governing differential equations and determined the rate of change of state  
 2. Found out the fixed points and linearized about the desired fixed point  
 3. Checked for stability of the fixed point and controllability about the fixed point  
 4. Designed a LQR controller based on the results obtained above using suitable cost matrices  
-5. Solve for the state from the differential equations and plot the behaviour of the different state components  
+5. Solve for the state from the differential equations and plotted the behaviour of the different state components  
 6. Create a graphical simulation of the pendulum-cart system.  
 7. Create a block diagram of the linearized system in Simulink and analyze its behaviour.  
 
