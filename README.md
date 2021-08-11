@@ -35,4 +35,8 @@ An LQR controller needs to be designed for regulating the force exerted, so that
 ![Problem](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/Plots.png)
 
 
+https://user-images.githubusercontent.com/65642096/129032295-3e7ec6c8-92ba-493a-a750-f0c8bb36ff8b.mp4
+
+
+
 ![Demo Video](https://user-images.githubusercontent.com/65642096/129031116-d98aebae-e4a6-4e18-bc32-f48dae8f1e48.mp4)
