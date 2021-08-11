@@ -1,4 +1,5 @@
 ## Summary
+The objective is to balance the inverted pendulum on moving cart by controlling the force on the cart.
 ## Problem
 ![Problem](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/problem.PNG)
 
