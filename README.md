@@ -32,7 +32,7 @@ An LQR controller needs to be designed for regulating the force exerted, so that
 
 ## Results
 ### Plots of angular deviation of pendulum from verticle and angular velocity of pendulum
-![Problem](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/Plots.PNG)
+![Problem](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/Plots.png)
 
 
 ![Demo](https://github.com/Abhinandan-Kumbhar/ControlsProject-InvertedPendulum/blob/main/Demo.mp4)
